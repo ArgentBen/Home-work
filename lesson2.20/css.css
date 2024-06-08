@@ -1,0 +1,28 @@
+header{
+     height: 60px;
+     background-color: chocolate;
+     color: black;
+}
+.img-jojo {
+     width: 400px;
+}
+
+.quote {
+     background-color: chocolate;
+}
+footer{
+     height: 300px;
+     background-color: rgb(132, 74, 226);
+     color: aliceblue;
+}
+.link-footer {
+     color: aliceblue;
+}
+.title-quote{
+     transform: translate(40%);
+}
+
+a{
+     color: aliceblue;
+     padding-right: 30px;
+}
