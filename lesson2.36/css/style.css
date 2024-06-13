@@ -1,0 +1,32 @@
+*{
+     box-sizing: border-box;
+}
+body{
+     background-color: rgb(119, 89, 50);
+}
+.main-block {
+     border-radius: 20px;
+     overflow:auto;
+     box-shadow: inset -1px 0px 5px,-1px 0px 40px black;
+     background-color: antiquewhite;
+     height: 500px;
+     font-family: "Tiny5", sans-serif;
+     max-width: 1300px;
+     margin:20vh auto;
+}
+.conteiner-block {
+     
+}
+
+
+.block-card {
+     width: 280px;
+     min-height: 200px;
+     padding: 20px 15px;
+     background-color: rgb(216, 181, 138);
+     border-radius: 20px;
+     box-shadow: inset 0 0 7px;
+     display: inline-block;
+     margin: 10px 15px 20px 10px;
+}
+
