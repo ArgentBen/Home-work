@@ -1080,6 +1080,7 @@
     width: 100%;
     height: 100%;
     transform: translateY(8%);
+    background-color: var(--black-accent);
 }
 
 .border-deformations-item::after {
