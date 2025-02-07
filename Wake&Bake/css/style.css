@@ -10,7 +10,9 @@
     --bg-fon-footer: #AB8261;
     --font--Title: 'Gabriola';
 }
-
+* {
+  -webkit-tap-highlight-color: transparent;
+}
 .body {
     overflow-x: hidden;
     width: 100vw;
